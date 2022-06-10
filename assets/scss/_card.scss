@@ -19,6 +19,7 @@
   border: $card-border-width solid $card-border-color;
   @include border-radius($card-border-radius);
   @include box-shadow($card-box-shadow);
+  color:lightcyan;
 
   > hr {
     margin-right: 0;
